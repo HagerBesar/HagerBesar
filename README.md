@@ -1,6 +1,6 @@
 ### Hi there 👋
-## 🔭 I’m currently working on AL and Flutter
-##I’m currently learning Flutter & Machine learningL
+I’m currently working on AL and Flutter
+I’m currently learning Flutter & Machine learningL
 <!--
 **HagerBesar/HagerBesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
