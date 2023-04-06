@@ -1,11 +1,11 @@
 ### Hi there 👋
 - I’m currently learning AI and Machine learning (iti)
 - I have Knowledge in :
--- Python(ML) , Dart , c++ , c , Java 
+- Python(ML) , Dart , c++ , c , Java 
 - Flask
 - Flutter & Dart
 - Sql
--
+
 
 <!--
 **HagerBesar/HagerBesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
