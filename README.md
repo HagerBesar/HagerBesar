@@ -1,10 +1,11 @@
 ### Hi there 👋
-- I’m currently learning AI and Machine learning (iti)
+- I’m currently AI and Machine learning trainee (iti)
 - I have Knowledge in :
 - Python(ML) , Dart , c++ , c , Java 
 - Flask
 - Flutter & Dart
 - Sql
+- NoSql
 
 
 <!--
